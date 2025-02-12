@@ -1,7 +1,7 @@
 {
     "name": "SLALayer",
     "website": "https://www.slalayer.xyz/",
-    "description": "SLALayer enables dApps to activate Service Level Agreements, backed by restaked assets that can be slashed for non-performance. It supports critical Web3 infrastructure like Subgraphs, Filecoin/IPFS storage, Oracles, AI networks, RPCs, etc. Learn more at https://www.slalayer.xyz/.",
+    "description": "SLALayer adds customizable service level agreements (SLAs) to Web3 infrastructure. It works on top of networks like The Graph, Filecoin, and others, improving their reliability and trust by enabling custom service levels, decentralized third-party monitoring of service quality, downtime alerts, and economic security to reduce risks and enhance Web3 infrastructure performance",
     "logo": "https://raw.githubusercontent.com/HarutChopuryan/AVS/refs/heads/main/slaLayer.png",
     "twitter": "https://x.com/sla_layer"
 }
